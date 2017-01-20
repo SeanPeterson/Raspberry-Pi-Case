@@ -1,0 +1,2 @@
+#Overview
+Two files for the upper and lower sides of the case. Inspiration for the case from Thingverse user ian57 and his snapless case here: http://www.thingiverse.com/thing:1422744 
